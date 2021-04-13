@@ -28,3 +28,5 @@ require (
 	gopkg.in/stack.v0 v0.0.0-20141108040640-9b43fcefddd0
 	gopkg.in/stretchr/testify.v1 v1.2.2 // indirect
 )
+
+replace github.com/fsnotify/fsnotify v1.4.7 => github.com/onokatio/fsnotify v1.99.103
