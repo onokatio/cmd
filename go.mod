@@ -29,4 +29,4 @@ require (
 	gopkg.in/stretchr/testify.v1 v1.2.2 // indirect
 )
 
-replace github.com/fsnotify/fsnotify v1.4.7 => github.com/onokatio/fsnotify v1.99.103
+replace github.com/fsnotify/fsnotify v1.4.7 => github.com/onokatio/fsnotify v1.99.104
