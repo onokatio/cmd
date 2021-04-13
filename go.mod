@@ -1,4 +1,4 @@
-module github.com/revel/cmd
+module github.com/onokatio/cmd
 
 go 1.12
 
